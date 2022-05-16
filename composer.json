@@ -1,0 +1,17 @@
+{
+  "name": "tlait/designpattern",
+  "description": "description",
+  "authors": [
+    {
+      "name": "tla",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Tlait\\DesignPattern\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
